@@ -1,2 +1,2 @@
 # noelnewyear
-projet de Noël. Pour souhaiter un joyeux noël et bonne année
+Conding Elites vous souhaite un joyeux noël et une bonne fête de nouvel an
